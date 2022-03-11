@@ -1,3 +1,4 @@
+gcc - c $CFILE - o 0 - main.o
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
