@@ -1,1 +1,1 @@
-BEGINNING OF C PROGRAMMING
+READMe for Second C programming Lesson
